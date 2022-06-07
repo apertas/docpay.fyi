@@ -1,1 +1,1 @@
-# doctorpay.fyi
+# docpay.fyi
